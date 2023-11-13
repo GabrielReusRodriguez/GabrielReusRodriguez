@@ -2,9 +2,9 @@
 
 
 [linkedin]: https://www.linkedin.com/in/gabriel-reus/
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreusrodriguez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielreusrodriguez&count_private=true&hide=stars&show_icons=true&theme=react&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreusrodriguez&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
