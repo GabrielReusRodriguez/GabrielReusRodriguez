@@ -105,6 +105,16 @@ Beyond the keyboard:
 
 ## GitHub stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielReusRodriguez&theme=default" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielReusRodriguez&theme=default" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielReusRodriguez&theme=default" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielReusRodriguez&theme=default&hide_border=false" alt="GitHub streak" />
+</p>
+
 ---
 
 ## Contact
